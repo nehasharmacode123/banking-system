@@ -23,6 +23,7 @@
     <name>bank-project</name>
     <modules>
         <module>config-server</module>
+        <module>api-gateway</module>
     </modules>
 
     <!-- Versions -->
